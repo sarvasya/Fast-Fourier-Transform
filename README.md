@@ -1,4 +1,4 @@
-# 📡 FFT Demo — C++ Digital Signal Processing
+# 📡 FFT  — C++ Digital Signal Processing
 
 > Cooley-Tukey Radix-2 FFT implementation in pure C++17 — no external dependencies.
 
